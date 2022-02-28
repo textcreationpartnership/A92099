@@ -1,0 +1,361 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Ruperts declaration to the King of Portugall. With the answer thereunto, in defence of the Parliaments proceedings with a relation of what passed between the two fleets on the river of Lisburne. / Sent up in a letter from Captain Thorowgood Captain of the Admirall.</title>
+            <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92099</idno>
+            <idno type="STC">Wing R2295</idno>
+            <idno type="STC">Thomason E598_7</idno>
+            <idno type="STC">ESTC R203410</idno>
+            <idno type="EEBO-CITATION">99863374</idno>
+            <idno type="PROQUEST">99863374</idno>
+            <idno type="VID">115570</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115570)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E598[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Ruperts declaration to the King of Portugall. With the answer thereunto, in defence of the Parliaments proceedings with a relation of what passed between the two fleets on the river of Lisburne. / Sent up in a letter from Captain Thorowgood Captain of the Admirall.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+                  <author>Thorowgood, Captain.</author>
+                  <author>John IV, King of Portugal, 1604-1656.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Whittington at the Blew-Ancor, near the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "April ye 16", the 50 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Portugal --  History --  John IV, 1640-1656 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115570:1" rendition="simple:additions"/>
+            <p>
+               <hi>PRINCE</hi> RUPERTS DECLARATION TO THE KING OF <hi>PORT<g ref="char:V">Ʋ</g>GALL.</hi>
+            </p>
+            <p>WITH The ANSWER thereunto, in Defence of the Parliaments Proceedings With a Relation of what paſſed be<g ref="char:EOLhyphen"/>tween the two Fleets on the River of LISBURNE.</p>
+            <p>Sent up in a Letter from Captain <hi>Thorowgood</hi> Captain of the <hi>ADMIRALL.</hi>
+            </p>
+            <p>
+               <hi>LONDON, Printed for</hi> George Whittington <hi>at the</hi> Blew-Ancor, <hi>near the Royall</hi> Exchange <hi>in</hi> Cornhill, 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:115570:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:115570:2"/>
+            <head>The DECLARATION of Prince <hi>Rupert,</hi> to the KINGDOM of PORTUGALL. Concerning the coming in of the <hi>Engliſh</hi> Fleet, of the <hi>Parliament</hi> of <hi>England</hi> into the River and Port of LIX.</head>
+            <p>ALthough the moſt inſolent, and horrid proceedings of the Rebels party in <hi>England,</hi> commonly known by the name or notion of <hi>Parliamentarians;</hi> whereas (in truth) they are nothing elſe, but tumultuous, factious &amp; ſeditious Souldiers, and other diſorderly, diſobedient &amp; refract<g ref="char:EOLhyphen"/>ory perſons conſpiring together, and reteining nothing of the an<g ref="char:EOLhyphen"/>cient form and Government of lawful Parliaments, might be a ſuf<g ref="char:EOLhyphen"/>ficient notice to awaken all Chriſtian Princes, ſeriouſly to attend the aimes &amp; deſigns of thoſe pernicious Conſpirators, leaſt the fire now kindled in <hi>England</hi> may (perchance in a ſhort time) come to their own doors; eſpecially if theſe circumſtances following be duly reflected on.</p>
+            <p>That theſe perſons have not onely from time to time for many yeares paſt, taken up Arms, and in a hoſtile manner made Warre upon their Soveraigne Lord and King; but having by certaine Wiles, and falſe devices got him into their poſſeſſion by an un<g ref="char:EOLhyphen"/>heard of, and unparallel'd example, (under colour of Juſtice) cut off his Head, as if he had been a perſon ſubject to the Orders and Decrees of an enraged multitude.</p>
+            <p>
+               <pb n="2" facs="tcp:115570:3"/>That after the death of their Soveraigne Lord and King, they have by publick vote, and ſo farre as in them lies, dethroned his undoubted Sonne Heir, and Succeſſour, of all acceſſe to his heredi<g ref="char:EOLhyphen"/>tary right in the Crowne, and by an Act of Engagement, do daily enforce the People to abjure Kingly Government.</p>
+            <p>That they are ſworne and profeſſed enemies to all civill and ſet<g ref="char:EOLhyphen"/>led Government, both in Church and Common-wealth, and do labour to bring all to a party in both, for that theſe perſons ha<g ref="char:EOLhyphen"/>ving laid the foundation of their greatneſſe of their power, upon theſe and ſuch like deteſtable principles in their own Countrey, what (may we think) may they attempt in neighbouring Nati<g ref="char:EOLhyphen"/>ons, when time and occaſion ſhall ſerve: yet that which is of a more near relation and concernment to the Kingdom of <hi>Portu<g ref="char:EOLhyphen"/>gall,</hi> may be ſufficiently gathered from other Circumſtances here enſuing.</p>
+            <p n="1">1. <hi>That this Fleet of the Rebels was procured by the ſolicitation of the</hi> Spaniſh <hi>Ambaſſador now reſiding in</hi> London, <hi>and is to remaine here, or upon theſe Coaſts, untill another Fleet come to joyne with it, and (whatſoever may be pretended) their deſign is not meerly againſt our perſon; and his Majeſty the King of great Brittain his Fleet under our Command, but to joyne with the</hi> Caſtillian, <hi>and to go with him into the ſtraits againſt the</hi> French, <hi>and then to come againſt this Countrey, as by the confeſſion of the</hi> Spaniſh <hi>Ambaſſadour his Secretary, and ſome of the Councel of State of</hi> England, <hi>to ſome perſons of quality in</hi> England <hi>it hath been diſco<g ref="char:EOLhyphen"/>vered: ſo although it ſhould ſo fortune, they ſhould have their ends upon us, and his Majeſty the King of great Brittains Fleet under our Command, now remaining in this Harbour of</hi> Lisborne, <hi>yet there is not any likelihood of an end of their deſignes againſt this Kingdom and People; for who will not preſume and inferre, that this ſolicitation and Agency, of the</hi> Spaniſh <hi>Ambaſſadour, is not to oppoſe and over<g ref="char:EOLhyphen"/>throwe his Majeſties Enemies, and who will not believe, but there is ſome great deſigne, between theſe people and the</hi> Caſtilians <hi>in hand, a<g ref="char:EOLhyphen"/>gainst the peace and tranquillity of this Kingdom, whereas it is cer<g ref="char:EOLhyphen"/>tain, that there came an Agent from the Rebels for</hi> Caſtile, <hi>in the Admirall of their fleet, who (if not gone away with the Merchant-men bound for St.</hi> Lucas, <hi>that came in company with the Fleet) is ſtill aboard the ſame Ship. If it be replyed, that likewiſe by this Fleet
+<pb n="3" facs="tcp:115570:3"/>
+they have ſent an Agent to his Majeſty the King of</hi> Portugall, <hi>which may be an argument of their deſire to keep an equall Amity with both theſe Princes. It is anſwered, that this Agent which now comes to</hi> Portugall, <hi>was not thought of</hi> 3 <hi>weekes before the Fleet put to Sea, and was procured by the Merchants of</hi> London, <hi>as was made known by a Petition they addreſſed to the pretended Parliament in that be<g ref="char:EOLhyphen"/>halfe; in contriving of which Petition, there was principle actors, two Brothers that lived here (called</hi> Buſhells) <hi>and that ſtill have a Bro<g ref="char:EOLhyphen"/>ther living here, who is a perſon notoriouſly interreſſed in the behalfe of the Rebells, this Agent is likewiſe to be maintained by the ſame Merchants, and the publick body of the pretended Parliament, or thoſe who have now the ſupream ſway of</hi> England, <hi>(whatſoever further or<g ref="char:EOLhyphen"/>ders may be pretended) have no further Intereſt in the Agent, then thereby to make his Agency, a Cloake to cover and conceale their de<g ref="char:EOLhyphen"/>ſignes.</hi>
+            </p>
+            <p n="2">2. <hi>It doth appeare by div<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs Letters written froe</hi> London <hi>to Merchants in this Town, that it was publickly voted in the pretended Parliament, and by the Councell of State now ruling in</hi> England, <hi>that if his Majeſty the King of</hi> Portugall <hi>ſhould receive his Majeſty the King of great</hi> Brittain <hi>his Fleet commanded by us, or give liberty for the ſale of any goods (ſurprized by us at Sea) in the Ports of his do<g ref="char:EOLhyphen"/>minions, they would make Warre againſt him, ſo that if this reſolution ſtand, to what end can their ſending of an Agent hither be? unleſſe it be that he may ſerve as a ſpy, to hold correſpondency with his Brother Agent, that is gone for</hi> Spaine, <hi>and to give him intelligence of ſuch advantages as may be taken for the ſupplanting of this Realme.</hi>
+            </p>
+            <p n="3">3. <hi>The manner of the coming of this Fleet doth much augment the ſuſpition of a deſigne in the buſineſſe, for whereas our being here with a Fleet of his Majeſties the King of great Brittain, who is an Ally and confederate of this Crown doth by the Lawes of the whole world, in all reaſon and equity challenge a ſafety and protection, as long as we continue in the Port. For theſe People to come into the Port with ſo many Ships of ſo great ſtrength, under the pretence of aſſailling us, and to advance in that manner as they did, wanting leave or ſilence, ob<g ref="char:EOLhyphen"/>tained from his Majeſty the King of</hi> Portugall <hi>for the ſame, was ſo highly an audacious Act, as if they held the Law of Nations, and the right of all forraigne Princes in as great contempt, as they have held the Lawes of their own Countrey, and the rights of their native King.
+<pb n="4" facs="tcp:115570:4"/>
+And it is to be feared, that if the Forts and Caſtles belonging to his Majeſty the King of</hi> Portugall, <hi>had permitted them to enter, and to have ſpoiled the Fleet under our Command, there rage would not have ended there, but would have attempted ſomething of the City, and his Majeſty the King of</hi> Portugall <hi>his Ships now lying in the Harbour, that ſo an entrance might be made for the</hi> Spaniard, <hi>who now lies up<g ref="char:EOLhyphen"/>on the Frontiers with an Army, or the Kings preparation of ſhipping to defend his Rights in</hi> Brazeele <hi>againſt Hollanders, might be diſappoin<g ref="char:EOLhyphen"/>ted and beaten down, and perhaps it hath not been without ſome myſte<g ref="char:EOLhyphen"/>ry or deſigne, that at their firſt entrance, the Lieutenant of their Ad<g ref="char:EOLhyphen"/>mirall was ſent aſhore, and had private meetings and conſultations in</hi> Buſhells <hi>houſe, and that Mr.</hi> Taytam <hi>and Mr.</hi> Ell, <hi>and other Maſters of</hi> Engliſh <hi>Ships, entertained in the ſervice of the</hi> King <hi>of</hi> Portugall, <hi>ſhould go to and from the Rebells Ships in the night and o<g ref="char:EOLhyphen"/>ther times without the leave or privity of the</hi> King, <hi>or any Miniſter of ſtate under him.</hi>
+            </p>
+            <p n="4">4. <hi>Notwithſtanding the audacious and inſolent attempts of theſe People (before reſited) were repulſed by the Forts and Caſtles of his Majeſtie, then King of</hi> Portugall: <hi>yet what have they ſince done? they have onely retired a little out of the reach of the Caſtles, and do now block up the very port it ſelfe, whereby we do not onely looſe the priviledge and libertie of the Port, (for as long as free ingreſſe and egreſſe is denied, we cannot be ſaid to injoy the liberty of the Port) but a high affront is done to the whole Nation, in that the principle port of their Kingdom in the very ſight of the</hi> King <hi>and his Court, is thus abuſed by a Company of decla<g ref="char:EOLhyphen"/>red Rebels, who have not any ri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ht or priviledge in Law to make Warre, and thereby not onely that Petition which is due to the Forces of his Majeſty the King of great Brittain (their Ally and Confede<g ref="char:EOLhyphen"/>rate) is violated, but the Trade and commerce of their own Countrey in conſequence of reaſon, muſt needes be diſſolved and undone:</hi> A <hi>thing which the Law of Nations doth not permit to any Soveraigne Prince or State in Warre, with a juſt enemy in the Port of a common Friend, as by the ſtories and practice of all Nations, both ancient and moderne it may be made appeare, and therefore we have much reaſon to hope, that the Honour of the</hi> Portuguez <hi>Nation, wil not indure ſuch inſolency to be committed, by theſe People, who being Rebells to their Prince,</hi> &amp; <hi>having in Law no right or priviledge in War, are to be deemed and eſteemed as Pirates and Sea Rovers, and whatſoever elſe worſe may be, but will heartily and ſeriouſly joyne with his Majeſty, the</hi>
+               <pb n="5" facs="tcp:115570:4"/>
+King of Great <hi>Brittaines</hi> Fleet under our Command, for the cleering of liberty of their Port, they aſſuring to us, that juſt Pro<g ref="char:EOLhyphen"/>tection which we claime, for the vindication of their own Com<g ref="char:EOLhyphen"/>merce and Trade, the prevention of the diſigns of their and our implacable enemies, &amp; to give demonſtration to the whole world, how little the inſolency of theſe People is to be endured, that ſo the peace, amity and correſpodency between the Crowns of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Portugall,</hi> may in all things be continued firm, and invio<g ref="char:EOLhyphen"/>lable, according to the intent and meaning of the Articles and ca<g ref="char:EOLhyphen"/>pitulations of peace had and made between them.</p>
+         </div>
+         <div type="reply">
+            <head>THE ANSWER TO Prince <hi>Ruperts</hi> DECLARATION.</head>
+            <p>ALthough the Paper Intituled, <hi>The Declaration of His Higneſſe Prince Rupert,</hi> be ſo full of notorious lies falſe grounds &amp; unprobable ſurmiſes, that it is not likely to produce any other effect, upon ſerious and intelligent ſpirits, that know any thing of the ſtate of our affairs, then to move them to a further diſcovery and contempt of his moſt Illu<g ref="char:EOLhyphen"/>ſtrious arrogancy. Yet becauſe there may be many ingenuous men, as well of our own, as the other Nation, who meerly through ignorance in matter of fact, may have their judgements much dazled, by the Authority of ſuch ſplendid and Majeſticall impo<g ref="char:EOLhyphen"/>ſtures, and chiefly, becauſe the preſent drift of the Paper, is to raiſe jealouſies between the moſt renowned King of <hi>Portugall,</hi> and the Fleet of the Parliament of <hi>England;</hi> I ſhall not think it time much misſpent, to give ſome ſhort animadverſion upon it, not taking much notice of his filthy and ſcurrelous Rhetorick, where<g ref="char:EOLhyphen"/>with he endeavours to disfigure the beautie, and actions of that great Councell, upon which the name of God is ſo gloriouſly written.</p>
+            <p>
+               <pb n="6" facs="tcp:115570:5"/>That the Parliament of <hi>England</hi> for many years paſt, hath been in Armes againſt the late King of <hi>England,</hi> contending for their own moſt juſt Rights, and the native Liberties of the People in<g ref="char:EOLhyphen"/>truſted with them, and which they are bound by all Obligations both humane and devine to maintaine and preſerve againſt all the efforts of Tyranny whatſoever, is famouſly known to the whole world, what iſſue it hath pleaſed God to put to that great differ<g ref="char:EOLhyphen"/>ence, by delivering up the power and Perſon of that King into their hands, and what hath fithence been done upon him, and de<g ref="char:EOLhyphen"/>clared againſt his Sonne, Heir apparent to thoſe evill Coun<g ref="char:EOLhyphen"/>ſels which devided between the Head and Shouldiers of his Fa<g ref="char:EOLhyphen"/>ther, we are in no wiſe afraid, or aſhamed to heare of the moſt railing accuſations that our adverſaries can bring againſt us, wil un<g ref="char:EOLhyphen"/>to us be matter of filling our mouths with the praiſes of our God, who hath done terrible things in righteouſneſſe, for the good of his people, and hath wrought out for them ſo great ſalvation, by ſuch unheard of and unparalel'd wayes. Neither do we take it for any diſparagement to us, our Parliament and Nation, that we are ſo vile in the eſteeme of this vagabond <hi>German</hi> a Prince of For<g ref="char:EOLhyphen"/>tune, whoſe Highneſs is nothing elſe, but haughtineſs, his Princi<g ref="char:EOLhyphen"/>pality meer Piracy, and the plurality of his Perſon, an affectation ſo ſingular, that no reall Prince can chuſe but ſmile at, who after he was cudgel'd out of <hi>England</hi> from his Trade of plundering, did in a ſhort time after, ſet up at Sea, and was even now ready to put forth out of this Harbour, and to take his paſtime, (with the <hi>Le<g ref="char:EOLhyphen"/>viathan</hi>) in the great waters, had not this audacious Fleet of Re<g ref="char:EOLhyphen"/>bels come in the very nick of time, to put an Imbargo upon his Highneſſe.</p>
+            <p>And truely it is no marvell that he hath ever ſince been ſo ex<g ref="char:EOLhyphen"/>ceedingly tranſported with choller, and foames ſo beaſtly at the mouth, calling us Rebells, theeves and profeſſed enemies to all Government, hereby endeavouring to render us (as much as in him lies) odious to all Nations and Princes; eſpecially to the moſt re<g ref="char:EOLhyphen"/>nowned King of <hi>Portugall,</hi> as by his whole diſcourſe may appear; the preſent ſcope thereof, being to poſſeſſe his Majeſty with ap<g ref="char:EOLhyphen"/>prehenſions of ſome ſtrange deſigne intended by this Fleet againſt the Peace of his Kingdom.</p>
+            <p>
+               <pb n="7" facs="tcp:115570:5"/>To that end his way is, in the firſt place to make His Majeſty beleeve, that this Fleet was procured by the ſollicitation of the Spaniſh Embaſſadour in London, to remain about this Coaſt, till another Fleet ſhould come to joyn with it, and having had their ends upon the ſacred perſon of His Highneſſe and his fleet, to go with the <hi>Caſtilians</hi> into the <hi>Streits</hi> againſt the <hi>French,</hi> and then to come againſt this Country. This likely tale (forſooth) is made good by the confeſſion of the Spaniſh Embaſſadors Se<g ref="char:EOLhyphen"/>cretary, and by the diſcovery of ſome of the Councell of State, unto ſome perſons of quality in England; and all this muſt be taken for truth, becauſe he (within whoſe principality there dwelleth no lye) hath ſaid ſo. And yet it ſeems his Highneſſe is loth to venture the iſſue of this ground, upon the bare credit of that affirmation, and therefore backs it immediately with an argument of congruity, that may not be denied. For who will not beleeve there is ſome great deſigne in hand, between us and the Caſtillians, ſeeing in the ſame Fleet, there is come an Agent from the Rebels in <hi>England</hi> to the King of <hi>Caſtile;</hi> and at the ſame time, another Agent unto his Majeſty the King of <hi>Portugall.</hi> Nay rather, who will beleeve this man to be in his right wits, that thinks by ſuch abſurd and ridiculous inconſequencies as this, to put two Nations of ſo ancient a Confederacy, together by the eares. The folly of it himſelf eft-ſoon perceiveth, and ſo re-enforceth it with many pretty devices of his own making; ſo that the whole Argument, with the additionall ſtrength, be<g ref="char:EOLhyphen"/>ing put into a fighting poſture, ſtands thus. An Agent from England not thought on, till three Weeks before the comming out of this Fleet, procured by ſome Merchants in London, a<g ref="char:EOLhyphen"/>mong whom the two <hi>Buſhels</hi> (who have a Brother in Lixbon, a great friend of the Rebels) were chief, to be ſent thither, and there by them to be maintained, diſ-intereſſed from the publike body of the Parliament, is arrived here at the ſame time that another Agent is employed to the King of Spain; <hi>ergo,</hi> there is ſome great plot a contriving between the Parliament of Eng<g ref="char:EOLhyphen"/>land and the Kingdome of Portugall: How true the particu<g ref="char:EOLhyphen"/>lars of this are, I leave to the Gentlemen concerned in it, ei<g ref="char:EOLhyphen"/>ther to refute, or make themſelves merry with; as they think fit.</p>
+            <p>
+               <pb n="8" facs="tcp:115570:6"/>But who ſeeth not that this wild Logick doth ſtand in need of ſome bold lye at hand to ſecond it, and they never are with<g ref="char:EOLhyphen"/>out a reſerve for ſuch uſes. It is nothing with them to deviſe Letters, to frame Votes, to create Miſteries, and if need be, to work Miracles, even to the transforming of King <hi>Taytam</hi> into a Round-head. Their ſtudy and care is not ſet much how their devices may be made to look like truth, as how they may be fitted to their purpoſe. And to their purpoſe, indeed, it would ſuit very well at this time, if he could make his Majeſty believe, that the Parliament of <hi>England</hi> is ſo neer (as he moſt falſly and maliciouſly affirmeth) unto terms of defiance, and of making war upon him. But to leave him to his own wayes (out of which he cannot walk) and to come to a ſpeedy cloſe of this tedious diſcourſe, the plain truth is thus:</p>
+            <p>His Highneſs being not long ſince beaten out of <hi>Ireland</hi> (where he had deſigned the Seat of his Principality, and being now by Gods providence ſhut up in this Harbour (whereby his hopes of making himſelf great (ſome where abroad in the wide world) are ſo ſuddenly and extreamly diſappointed) is grown deſperate, beſtirring himſelf on every ſide with his lyes, as <hi>Ajax</hi> in the Tragedy did with his whips, and is become as one that hath altogether loſt both his courage and wit, elſe he would never have adventured to impoſe ſuch ſilly gulleries (as he hath done) upon a King and Councel ſo prudent and circumſpect, nor would have violated his own Honour ſo much, as to beg protection, and cry out for help, at the fight of ſuch an inconſi<g ref="char:EOLhyphen"/>derable company of Round-heads, as we are, and as in his jolli<g ref="char:EOLhyphen"/>ty he is pleaſed to make of us: For what is it elſe, but an im<g ref="char:EOLhyphen"/>potency of Spirit, over-whelm'd with deſperation and fear, that hath moved him to ſuch extream impatience, to break out into ſuch raving exclamations againſt our audacious attempt to ap<g ref="char:EOLhyphen"/>proach toward his Highneſs, with ſuch hainous and horrid ag<g ref="char:EOLhyphen"/>gravations of the manner of our advance; and moſt importu<g ref="char:EOLhyphen"/>nate imprecations of juſtice and revenge upon us; as if to have aſſailed his Perſon and Fleet, had been to trample under foot the Lawes of Nations, to over-turn the foundations of all rule and right, and to diſſolve the very Bonds of all humane ſociety in the world: Whereas his Highneſs hath moſt inſolent and
+<pb n="9" facs="tcp:115570:6"/>
+outragiouſly affronted the power and honour of his Majeſty, even within the command of his Caſtles, as is well known; and yet thinks he hath done nothing therein, but what is agreeable to his greatneſs; yea, the exceſs and rage of his impatiency and malice againſt us, is ſuch, and ſo boundleſs, that he would fain make his Majeſty believe, what is ſcarce poſſible for a ſober ene<g ref="char:EOLhyphen"/>my to imagine of us; That our deſign was not to end in the de<g ref="char:EOLhyphen"/>ſign of him, and his Fleet; but to proceed on to the ſeizing of his Majeſties Fleet bound for <hi>Brazeel;</hi> yea, upon the very City it ſelf: But what ever it be, that the malice or fear of our enemies, either hath, or ſhall ſuggeſt againſt us, or what art and inſinua<g ref="char:EOLhyphen"/>tions ſoever ſhall be uſed by any, to make way to thoſe their wicked and ſcandalous ſuggeſtions, I am confident his Majeſty is far from receiving any ſuch impreſſions, as by them are in<g ref="char:EOLhyphen"/>tended upon him. Neither doubt, but by this time, he is moſt fully aſſured, both of the ſincere and reall affection, and earneſt deſire of the Parliament of <hi>England,</hi> after a firm and perpetuall League of Amity, with him, and the Nation of <hi>Portugal.</hi> And alſo, of the peaceable intentions of this Fleet, and of our inno<g ref="char:EOLhyphen"/>cent behaviour, according to our duty, in proſecution and con<g ref="char:EOLhyphen"/>formity to the ſame. And if probabilities may take place, I could wiſh all unprejudiced men, to conſider whether the <hi>Por<g ref="char:EOLhyphen"/>tugal</hi> may not with very good reaſon promiſe unto himſelf more advantage and ſecurity, by confiding in us, who are ſent out by the Common-wealth of <hi>England,</hi> for the protection of trade, rather then in them, who make it their trade to ſpoyl and rob whomſoever they meet, almoſt without any diſcrimina<g ref="char:EOLhyphen"/>tion; In us, who are onely Engliſh, the moſt ancient Allies, and affectionate friends of their Nation, or in that Fleet, whoſe ſtrength doth moſt conſiſt of Iriſh, who have ever been, and ſtill are moſt paſſionately, and ſuperſtitiouſly, devoted to the Spa<g ref="char:EOLhyphen"/>niſh Nation, and Party. And it is a thing which deſerves their ſerious conſideration and examination; That there is among them one <hi>Mucknell,</hi> a moſt malicious enemy to the <hi>Portugal</hi> Na<g ref="char:EOLhyphen"/>tion, who about five years ſince, being Maſter of the Ship <hi>John,</hi> bound to the Eaſt-Indies, did moſt wickedly, and barbarouſly, betray a <hi>Portugal</hi> Governour ſent for <hi>God,</hi> with his wife, and kin<g ref="char:EOLhyphen"/>dred, and 60 ſervants, whom he had taken in at <hi>Moſeabeck,</hi> and
+<pb n="10" facs="tcp:115570:7"/>
+afterward inviting him and a great part of his retinue to a feaſt a ſhore in the Iſle of <hi>Joanna,</hi> moſt perfideouſly left him there, ran away with his ſhip, and being two leagues off in the Iſland, tur<g ref="char:EOLhyphen"/>ned the remainder of his company (neer about 35. in number) moſt mercileſly into a ſmall Boat to ſhift for themſelves, having firſt ſtript them of all their gold and jewels, apparel and goods, to a great value. It were eaſie upon this occaſion, to abound in diſcoveries of that horrid practice of this Generation of men from time to time, but that the world is ſufficiently full of the cry of them; and for my part, I take not ſo much delight in rip<g ref="char:EOLhyphen"/>ping up the villanies of others, as in cleering up our own inno<g ref="char:EOLhyphen"/>cency, together with the plain and honeſt ſimplicity of our in<g ref="char:EOLhyphen"/>tentions and reſolutions, in purſuance of thoſe commands we have received, and to promote (as much as in us lies) the hono<g ref="char:EOLhyphen"/>rable deſires and affections of the Parliament of <hi>England,</hi> toward the King and Kingdom of <hi>Portugal,</hi> which are ſo mainly oppo<g ref="char:EOLhyphen"/>ſed by our Adverſaries, as that, which they perhaps apprehend (if obtained) may prove fatal unto them, and their declining party; but, in all likelyhood, cannot but be beneficial and ad<g ref="char:EOLhyphen"/>vantagious unto both the Nations.</p>
+            <div type="letter">
+               <head>Ad. ult. </head>
+               <opener>
+                  <dateline>
+                     <date>March, 1650.</date> Bay of <hi>Cataline.</hi>
+                  </dateline>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>BEcauſe I conceive our Fleet is much looked upon, (though diffe<g ref="char:EOLhyphen"/>rently,) Some wiſhing us good ſucceſſe, others contrary, and no doubt but you have various Reports concerning us, as mens affecti<g ref="char:EOLhyphen"/>ons lead them; I thought good to give a brief Account, what Condition we are in at preſent, and what hath happened ſince our Arrivall, that ſo you might be able to report the Truth of our Affaires to them that wiſh us well, and pray for us. The <hi>10<hi rend="sup">th</hi>
+                  </hi> inſtant, we arrived in the road of <hi>Caſcalis,</hi> which lyeth from the mouth of this River four mile. When we came in, the General ſent me aſhore with a Merchant, that came along with us, with a Letter to the Governour, giving him to under<g ref="char:EOLhyphen"/>ſtand
+<pb n="11" facs="tcp:115570:7"/>
+from whence we came, and what we were; So ſoon as I came aſhore, I underſtood, that Pirat <hi>Rupert</hi> was as yet in the River, any ready to ſayl, I made no delay, but haſted aboard, to give notice hereof to the General, and Fleet; and before night, the General diſpatched my Lieutenant in company of that Merchant, with a Letter to the King of <hi>Portugal,</hi> intimating our Arrival, and for what, deſiring admittance as a friend and Ally: This night came down to us Captain <hi>Richard Ell,</hi> Commander of a Merchant ſhip in the River, who informed us of <hi>Ru<g ref="char:EOLhyphen"/>pert</hi>'s ſtrength, conſiſting of Eleven ſail; Their ſtrength you will per<g ref="char:EOLhyphen"/>ceive by the incloſed Scrole. The <hi>11<hi rend="sup">th</hi>,</hi> being the ſecond day of the week, a Councel of VVar being called, after we had craved Direction from the great God, we fell upon debate of what we ſhould do, and it was quickly reſolved on, <hi>(nemine contradicente)</hi> that the wind favouring us, we ſhould immediately go up to them, and ingage forthwith; to this effect, we weighed; our Ship being Admiral, led the way, with the <hi>Bon<g ref="char:EOLhyphen"/>adventure</hi> C. <hi>John Harris,</hi> who was to engage with us, following us, and ſo the Vice Admiral in the midſt, and the Rear-Admiral in the rear; but as we drew neer <hi>Julians</hi> Caſtle, which ſtandeth upon the Point (the River going up) and hath <hi>100.</hi> peeces of Ordnance in it; and over againſt it, on the South ſide the River, is another Caſtle called the <hi>Woodden</hi> Caſtle, of very good Force; <hi>Julians</hi> Caſtle began to let flye at us, but we kept on our courſe, untill we came almoſt between the two Caſtles, where falling calme, we were enforced to come to Anchor, <hi>Julians</hi> Caſtle ha<g ref="char:EOLhyphen"/>ving ſhot <hi>11</hi> Guns at us, and the <hi>Woodden</hi> Castle four; yet through Gods bleſſing, they never ſtruck us: we rode there <hi>7.</hi> dayes before we came up hither, ever and anon having Meſſengers from the King, to treat with us about our going away, that ſo <hi>Rupert</hi> might get out. But the General and Councel of VVar, deſired to know the Kings poſitive an<g ref="char:EOLhyphen"/>ſwer, whether he would acknowledge us for his friends, or no; in caſe he would for friends, we deſired the priviledge of friends, to enter into his Ports, that we might be in ſafety with our Ships; at laſt, (not able to do otherwiſe) he aſſented that ſeeing the General and Councel of VVar would not agree to depart, but upon his peremptory Command for us ſo to do, which he could not do (as deſiring to hold all fair correſpondency with the Parliament) he was content we ſhould come in to St. <hi>Catalines</hi> Bay, if the wind ſhould come out and blowe; ſo the <hi>18.</hi> day of March we came into this place, having firſt engaged our Words, not to uſe any Act of hostility againſt <hi>Rupert</hi> in this Port, unleſſe provoked firſt by him, or
+<pb n="13" facs="tcp:115570:8"/>
+that we have the Kings Aſſent. The <hi>23<hi rend="sup">d</hi>
+                  </hi> day preſent, there came a Gentleman from the King, intimating the Kings deſire, to treat with ſome Perſon of quality of our Fleet, about our affairs. <g ref="char:V">Ʋ</g>pon which, at a Councel of War, it was agreed on, That the Vice-Admiral Capt. <hi>Moul<g ref="char:EOLhyphen"/>ton</hi> ſhould be the man; and to that purpoſe he had inſtructions given him, with certain Propoſitions from the General and Councel of War, from which he was not to Recide, <hi>viz.</hi> Firſt, to demand of the King, <hi>Ru<g ref="char:EOLhyphen"/>pert's</hi> Fleet, as the proper goods of the <hi>Common-Wealth,</hi> and the reſt belonging to ſeveral Members of the ſame. Secondly, in caſe he would not do this, then to give us leave to fall on them in the Port; Or thirdly, to command both our Fleets out together at a prefixt time, and that if he ſhould neglect, or refuſe to go out, that then it might be free for us to come in, and fall on them within: Or fourthly, to give us the Liberty of his Port, to ride where we pleaſed, for our moſt advantage, we upon the con<g ref="char:EOLhyphen"/>feſſion of the <hi>4<hi rend="sup">th</hi>,</hi> engaging to uſe no hoſtile Act against them, unleſſe firſt provoked thereto by them: And laſtly, to give him aſſurance of our honest Intentions towards himſelf and Kingdome, notwithſtanding the Enemies malicious Calumnies ſet out in a Declaration of <hi>Rupert,</hi> upon our Entrance in; The Copy whereof I have ſent you, with an Anſwer to it, by a Gentleman in this Fleet; This night the Vice-Admiral had <hi>4.</hi> houres conference with the <hi>Conde de Mica,</hi> the <hi>Conde de Tores,</hi> and the Secretary of State, being thoſe of his Councel, he had appointed to receive our Propoſals, and to make them known to him, inſiſting moſt upon the <hi>2<hi rend="sup">d</hi>, 3<hi rend="sup">d</hi>,</hi> and <hi>4<hi rend="sup">th</hi>
+                  </hi> Propoſals, but concluded nothing, promiſing an Anſwer by Commiſſioners of their own, but to this day it is not come. We find the Kings Councel much for <hi>Rupert</hi> and his deſigns, being ani<g ref="char:EOLhyphen"/>mated thereto by the Merchants of our own Nation, who are all, except four or five of his Party, and do not ſtick openly to wiſh our ruine; yet the King and his Councel are very much perplexed, not knowing what to reſolve of, having formerly engaged themſelves for <hi>Rupert;</hi> notwith<g ref="char:EOLhyphen"/>ſtanding they would ſeem to ſatisfie both Parties in their deſires, but they diſcover themſelves by their prastiſes, to adhere moſt to <hi>Rupert.</hi> We hope the Parliament will haſten out the other Fleet after us, or ſome con<g ref="char:EOLhyphen"/>ſiderable part thereof; we being at preſent but equall in strength to <hi>Ru<g ref="char:EOLhyphen"/>pert,</hi> as you may perceive by the encloſed note, that ſo we may be inabled not only to encounter with the <hi>Revolters,</hi> but with the <hi>French</hi> alſo, whom the <hi>Revolters</hi> expect here daily, to joyn with them againſt us. Pray God there be none that hinder our Fleets coming to relieve us;
+<pb n="12" facs="tcp:115570:8"/>
+this is the Sum of our proceedings hitherto; thus not having elſe, I commit you to God, and rest</p>
+               <closer>
+                  <signed>Your aſſured loving friend, <hi>C. THOROWGOOD.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Remember my kind reſpects to your Father and Mother, and to Lieut. col.</hi> Lilburn, <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>Captain</hi> Allen <hi>my quondam priſoner came hither four or five dayes before us, and brought</hi> Rupert <hi>and</hi> Maurice <hi>the Order of the Garter, and is now in the Vice-Admiral with</hi> Mau<g ref="char:EOLhyphen"/>rice, it may be our haps to meet with him again.</p>
+               </postscript>
+            </div>
+            <div type="enclosed_list">
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" cols="2">A List of Prince R<g ref="char:V">Ʋ</g>PERTS Fleet.</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Prince <hi>Rupert</hi> Generall.</cell>
+                        <cell role="label">
+                           <hi>Guns.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Captain <hi>Kittleby</hi> Admirall, Conſtant Reformation,</cell>
+                        <cell>52</cell>
+                     </row>
+                     <row>
+                        <cell>M<hi rend="sup">r</hi> 
+                           <hi>Fernes</hi> Maſter of Admiral.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Prince <hi>Mawrice</hi> [Convertine] Vice-Admiral.</cell>
+                        <cell>46</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>John Mince</hi> [Swallow] Rear-Admiral.</cell>
+                        <cell>40</cell>
+                     </row>
+                     <row>
+                        <cell>Second <hi>Charles,</hi> Capt. <hi>Marſhall</hi> Captain.</cell>
+                        <cell>40</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Euſtace Smiths</hi> Ship.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Goulding,</hi> Black Prince.</cell>
+                        <cell>36</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Langley</hi> [A Scot] </cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Barnily Burly</hi> [Rowbuck]</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Mr. <hi>Hargroves</hi> ſhip.</cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Michel,</hi> Capt. of the Ship that was M<hi rend="sup">r</hi> 
+                           <hi>Jacksons.</hi> 
+                        </cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>Sir <hi>John Mucknel,</hi> in the Mary. </cell>
+                        <cell>24</cell>
+                     </row>
+                     <row>
+                        <cell>The Blackamore Lady is ſaid to be ſold. </cell>
+                        <cell>18</cell>
+                     </row>
+                     <row>
+                        <cell>The Black Knight.</cell>
+                        <cell>14</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Totall</hi>
+                        </cell>
+                        <cell>360</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <pb n="14" facs="tcp:115570:9"/>
+                  <table>
+                     <row>
+                        <cell role="label" cols="2">The Parliament of Englands Fleet.</cell>
+                     </row>
+                     <row>
+                        <cell role="label">Generall <hi>Blake.</hi>
+                        </cell>
+                        <cell role="label">Guns.</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Thorowgood,</hi> Saint George.</cell>
+                        <cell>57</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Moulton</hi> ſenior [Leopard] Vice-Admirall.</cell>
+                        <cell>56</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Boddilow</hi> [Entrance] Rear-Admirall.</cell>
+                        <cell>46</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Harris,</hi> Bone-adventure.</cell>
+                        <cell>42</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Baule</hi> [Adventure] Frigot.</cell>
+                        <cell>40</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Saltingſtone,</hi> the John.</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Benj. Blake,</hi> the Aſſurance Frigot.</cell>
+                        <cell>32</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Moulton</hi> junior, Conſtant Warwick.</cell>
+                        <cell>32</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Peacock,</hi> the Tyger Frigot.</cell>
+                        <cell>36</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Pierce,</hi> the Providence Frigot.</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>VVheeler,</hi> the Expedition Frigot:</cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell>Capt. <hi>Roſe</hi> [the Signet] a fire-ſhip.</cell>
+                        <cell>3</cell>
+                     </row>
+                     <row>
+                        <cell>The Whelp, a Fire-ſhip.</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>The two Katches.</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell role="label">
+                           <hi>Totall</hi>
+                        </cell>
+                        <cell>454</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
